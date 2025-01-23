@@ -8,7 +8,7 @@
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio]()**--->
 
-- 📫 How to reach me: [Gmail](astitvasingh281@gmail.com) , [LinkedIn](https://www.linkedin.com/in/astitva-singh-621334203/)
+- 📫 How to reach me: [Mail](astitvasingh281@gmail.com) , [LinkedIn](https://www.linkedin.com/in/astitva-singh-621334203/)
 
 - ⚡ Fun fact: **I love gymming 🏋🏻‍♂️💪🏼.**
 <br/>
